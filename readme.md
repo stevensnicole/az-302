@@ -1,13 +1,13 @@
 # Study notes for AZ-302
 
-This is in the order studied due to their % worth at the time of sitting the test. I'm not saying this is what's in the exam, this is what I studied.  I haven't changed this content since the exam was passed (End of April 2019), it's just been tidied a little.
+This is in the order studied due to their % worth at the time of sitting the test. I'm not saying this is what's in the exam, this is what I read/re-read in the run up.  I haven't changed this content since the exam was passed (End of April 2019), it's just been tidied a little.  For each section I worked out what I thought was after based on experience, and then researched further.
 
-All coding examples and builds were completed, it turned into a crash course in Visual Studio for someone rarely uses it.  In reality there are still some coding parts to the exam, but along as the basic concepts are understood then you should be OK!
+All coding examples and builds were completed, it turned into a crash course in Visual Studio for someone rarely uses it.  I did this to grasp the concepts as am not a developer, I think it served me well.
 Get yourself a free months trial to Pluralsight, I've kept mine on paid, if you're serious about skilling up across the board it's well worth the subscription.
 
 The content for this exam was as below in March 2019.  It was restructured to different headings and percentages in May 2019, however, the content is the same.  There's also alot of crossover here to AZ-300 and AZ-301 too.  There are links in here to opsedx courses which are no longer open for registration.  I used these for hints on what to study when I wasn't sure, which is why they are still listed.
 
-One tip, don't underestimate the lab times, in AZ-1** and AZ-3** it's a huge factor in time management, I ran out of time, but still nailed enough to get over the line with a solid score :) On the labs for any Azure exam, make sure you have a decent monitor size, I lost huge amount of time on one section as I wasn't able to scroll to the right to select an option, the resolution just wasn't up to scratch. That's the main reason I ran out of time.
+One tip, don't underestimate the lab times, in AZ-1** and AZ-3** it's a huge factor in time management, I ran out of time, but still nailed enough to get over the line with a solid score :) On the labs for any Azure exam, make sure you have a decent monitor size, I lost huge amount of time on one section as I wasn't able to scroll to the right to select some options, the resolution just wasn't up to scratch. That's the main reason I ran out of time.
 
 Last but not least, build everything!
 
@@ -23,6 +23,7 @@ Last but not least, build everything!
 * [Design a Continuity Strategy](sections/2a.design_a_business_continuity_strategy.md)
 ## Determine Workload Requirements (15-20%)
 * [Determine Workload Requirements](sections/3.determine_workload_requirements.md)
+    - [Some links taken from Gregor Suttie's Study Notes - awesome content, many thanks!](https://gregorsuttie.com/2019/01/10/az-302-exam-study-notes/)
 ## Implement Authentication and Secure Data (15-20%)
 * [Implement Authentication and Secure Data](sections/4.implement_authentication_and_secure_data.md)
 ## Design for Security and Identity (5-10%)
